@@ -55,6 +55,19 @@
   * [django-rest-framework-bulk](https://github.com/miki725/django-rest-framework-bulk): Django REST Framework bulk CRUD view mixins
   * [drf-extensions](https://github.com/chibisov/drf-extensions): DRF-extensions is a collection of custom extensions for Django REST Framework
 
-<!-- ## Best practices
-
-## Common issues -->
+  ## Tutorials
+  * [Beginner's Guide to the Django REST Framework](https://code.tutsplus.com/tutorials/beginners-guide-to-the-django-rest-framework--cms-19786)
+  * [Django Rest Framework - an Introduction](https://realpython.com/blog/python/django-rest-framework-quick-start/)
+  * [Django REST Framework Tutorial](https://tests4geeks.com/django-rest-framework-tutorial/)
+  * [Django REST Framework Course](https://teamtreehouse.com/library/django-rest-framework)
+  * [Building a RESTful API with Django REST Framework](http://agiliq.com/blog/2014/12/building-a-restful-api-with-django-rest-framework/)
+  * [Getting Started with Django REST Framework and AngularJS](http://blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html)
+  * [End to End Web App with Django REST Framework & AngularJS](http://mourafiq.com/2013/07/01/end-to-end-web-app-with-django-angular-1.html)
+  * [Start Your API - Django REST Framework Part 1](https://godjango.com/41-start-your-api-django-rest-framework-part-1/)
+  * [Permissions & Authentication - Django REST Framework Part 2](https://godjango.com/43-permissions-authentication-django-rest-framework-part-2/)
+  * [ViewSets and Routers - Django REST Framework Part 3](https://godjango.com/45-viewsets-and-routers-django-rest-framework-part-3/)
+  * [Django REST Framework User Endpoint](http://richardtier.com/2014/02/25/django-rest-framework-user-endpoint/)
+  * [Check Credentials Using Django REST Framework](http://richardtier.com/2014/03/06/110/)
+  * [Creating a Production Ready API with Python and Django REST Framework – Part 1](https://www.andreagrandi.it/2016/09/28/creating-production-ready-api-python-django-rest-framework-part-1/)
+  * [Creating a Production Ready API with Python and Django REST Framework – Part 2](Creating a Production Ready API with Python and Django REST Framework – Part 2)
+  
