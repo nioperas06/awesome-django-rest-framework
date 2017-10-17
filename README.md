@@ -18,8 +18,8 @@
   - [Serialization](#serialization)
   - [Visualization](#visualization)
   - [Other](#other)
-- [Best practices](#bestpractices)
-- [Common issues](#commonissues)
+<!-- - [Best practices](#bestpractices)
+- [Common issues](#commonissues) -->
 
 <!-- ## Books
 
