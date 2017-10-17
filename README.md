@@ -8,8 +8,6 @@
 
 ## Table of Contents
 
-<!-- - [Books](#books)
-- [Tutorials](#tutorials) -->
 - [Packages](#packages)
   - [Authentication](#authentification)
   - [Authorization](#authorization)
@@ -18,12 +16,10 @@
   - [Serialization](#serialization)
   - [Visualization](#visualization)
   - [Other](#other)
-<!-- - [Best practices](#bestpractices)
-- [Common issues](#commonissues) -->
-
-<!-- ## Books
-
-## Tutorials -->
+- [Tutorials](#tutorials)
+- [Books](#books)
+- [Best practices](#bestpractices)
+- [Common issues](#commonissues)
 
 ## Packages
 
