@@ -69,5 +69,4 @@
   * [Django REST Framework User Endpoint](http://richardtier.com/2014/02/25/django-rest-framework-user-endpoint/)
   * [Check Credentials Using Django REST Framework](http://richardtier.com/2014/03/06/110/)
   * [Creating a Production Ready API with Python and Django REST Framework – Part 1](https://www.andreagrandi.it/2016/09/28/creating-production-ready-api-python-django-rest-framework-part-1/)
-  * [Creating a Production Ready API with Python and Django REST Framework – Part 2](Creating a Production Ready API with Python and Django REST Framework – Part 2)
-  
+  * [Creating a Production Ready API with Python and Django REST Framework – Part 2](https://www.andreagrandi.it/2016/10/01/creating-a-production-ready-api-with-python-and-django-rest-framework-part-2/)
