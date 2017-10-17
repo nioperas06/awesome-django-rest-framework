@@ -4,7 +4,7 @@
 
 *Please read the [contribution guidelines](#guidelines) before contributing.*
 
-**Check out my [medium blog](https://medium/nioperas06) or say *hi* on [Twitter](https://twitter.com/nioperas06).**
+**Check out my [medium blog](https://medium.com/@nioperas06/) or say *hi* on [Twitter](https://twitter.com/nioperas06).**
 
 ## Table of Contents
 
