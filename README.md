@@ -1,7 +1,5 @@
 <h1 align="center">
 	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome">
-	<br>
-	<br>
 </h1>
 
 # Awesome Django REST Framework [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/nioperas06-approved-brightgreen.svg)
