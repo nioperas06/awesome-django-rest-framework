@@ -1,8 +1,14 @@
+<h1 align="center">
+	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome">
+	<br>
+	<br>
+</h1>
+
 # Awesome Django REST Framework [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/nioperas06-approved-brightgreen.svg)
 
 > Curated list of tools, processes and resources you need to create an awesome API with Django REST Framework!
 
-*Please read the [contribution guidelines](#guidelines) before contributing.*
+*Please read the [contribution guidelines](contributing.md) before contributing.*
 
 **Check out my [medium blog](https://medium.com/@nioperas06/) or say *hi* on [Twitter](https://twitter.com/nioperas06).**
 
