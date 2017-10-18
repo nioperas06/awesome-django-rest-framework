@@ -2,7 +2,7 @@
 
 Please follow the instructions below to make a contribution.
 
-## Table of Content
+## Table of Contents
 
 - [Adding to the list](#adding-to-the-list)
 - [To remove from the list](#to-remove-from-the-list)
