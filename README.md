@@ -77,3 +77,8 @@
   * [Creating a Production Ready API with Python and Django REST Framework – Part 1](https://www.andreagrandi.it/2016/09/28/creating-production-ready-api-python-django-rest-framework-part-1/)
   * [Creating a Production Ready API with Python and Django REST Framework – Part 2](https://www.andreagrandi.it/2016/10/01/creating-a-production-ready-api-with-python-and-django-rest-framework-part-2/)
   * [Classy Django REST Framework](http://www.cdrf.co/)
+
+  ## Common issues
+  * [Web API performance: profiling Django REST framework](https://www.dabapps.com/blog/api-performance-profiling-django-rest-framework/)
+  * [My Experience in Serializer-Land (Django Rest Framework)](http://blog.traintracks.io/my-experience-in-serializer-land-django-rest-framework/)
+  * [Optimizing slow Django REST Framework performance](http://ses4j.github.io/2015/11/23/optimizing-slow-django-rest-framework-performance/)
