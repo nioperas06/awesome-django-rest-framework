@@ -24,6 +24,7 @@
   - [Other](#other)
 - [Tutorials](#tutorials)
 - [Books](#books)
+- [Talks](#talks)
 - [Best practices](#bestpractices)
 - [Common issues](#commonissues)
 
@@ -77,6 +78,13 @@
   * [Creating a Production Ready API with Python and Django REST Framework – Part 1](https://www.andreagrandi.it/2016/09/28/creating-production-ready-api-python-django-rest-framework-part-1/)
   * [Creating a Production Ready API with Python and Django REST Framework – Part 2](https://www.andreagrandi.it/2016/10/01/creating-a-production-ready-api-with-python-and-django-rest-framework-part-2/)
   * [Classy Django REST Framework](http://www.cdrf.co/)
+
+  ## Talks
+  * [Fergal Walsh - Rethinking how we build HTTP APIs](https://www.youtube.com/watch?v=qTHkNkgFJeg)
+  * [Samuel Fuentes - Fast product development using Django Rest Framework. #lessonslearned](https://www.youtube.com/watch?v=0hrf83ZIKw0&t=39s)
+  * [Marco Montanari - Django, Django Rest Framework and Angular2: RAD on SaaS platforms](https://www.youtube.com/watch?v=DrQmYoZLGw8&t=129s)
+  * [Alejandro Castillo - Django Rest Framework, one year after: tips, tools, tricks and pitfalls.](https://www.youtube.com/watch?v=0URILwS7-WI&t=18s)
+  * [Rafał Nowicki - Python REST frameworks review](https://www.youtube.com/watch?v=HhKSgRvfF20&t=827s)
 
   ## Common issues
   * [Web API performance: profiling Django REST framework](https://www.dabapps.com/blog/api-performance-profiling-django-rest-framework/)
