@@ -67,6 +67,7 @@
   * [Django Rest Framework - an Introduction](https://realpython.com/blog/python/django-rest-framework-quick-start/)
   * [Django REST Framework Tutorial](https://tests4geeks.com/django-rest-framework-tutorial/)
   * [Django REST Framework Course](https://teamtreehouse.com/library/django-rest-framework)
+  * [Modern Django - Blog Series covering Django api and React frontend](http://v1k45.com/blog/modern-django-part-1-setting-up-django-and-react/)
   * [Building a RESTful API with Django REST Framework](http://agiliq.com/blog/2014/12/building-a-restful-api-with-django-rest-framework/)
   * [Getting Started with Django REST Framework and AngularJS](http://blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html)
   * [End to End Web App with Django REST Framework & AngularJS](http://mourafiq.com/2013/07/01/end-to-end-web-app-with-django-angular-1.html)
