@@ -31,6 +31,7 @@
 ## Packages
 
   ### Authentication
+  * [django-rest-passwordreset](https://github.com/anx-ckreuzberger/django-rest-passwordreset): Password reset endpoints that hook into Django Authentication system
   * [djoser](https://github.com/sunscrapers/djoser): REST implementation of Django authentication system
   * [django-rest-auth](https://github.com/Tivix/django-rest-auth/): a set of REST API endpoints to handle User Registration and Authentication tasks
   * [django-rest-framework-jwt](https://github.com/GetBlimp/django-rest-framework-jwt/): JSON Web Token Authentication support for Django REST Framework
