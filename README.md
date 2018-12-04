@@ -44,7 +44,7 @@
 
   ### Documentation
   * [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger): Swagger Documentation Generator for Django REST Framework
-  * [drf-yasg](https://github.com/axnsan12/drf-yasg): alternative OpenAPI Generator for Django REST Framework with response schema support
+  * [drf-yasg](https://github.com/axnsan12/drf-yasg): Alternative OpenAPI Generator for Django REST Framework with response schema support
 
   ### Routing
 
