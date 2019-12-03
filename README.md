@@ -15,7 +15,7 @@
 ## Table of Contents
 
 - [Packages](#packages)
-  - [Authentication](#authentification)
+  - [Authentication](#authentication)
   - [Authorization](#authorization)
   - [Documentation](#documentation)
   - [Routing](#routing)
@@ -26,7 +26,7 @@
 - [Books](#books)
 - [Talks](#talks)
 - [Best practices](#bestpractices)
-- [Common issues](#commonissues)
+- [Common issues](#common-issues)
 
 ## Packages
 
