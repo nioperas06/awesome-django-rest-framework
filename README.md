@@ -97,3 +97,4 @@
   * [Web API performance: profiling Django REST framework](https://www.dabapps.com/blog/api-performance-profiling-django-rest-framework/)
   * [My Experience in Serializer-Land (Django Rest Framework)](http://blog.traintracks.io/my-experience-in-serializer-land-django-rest-framework/)
   * [Optimizing slow Django REST Framework performance](http://ses4j.github.io/2015/11/23/optimizing-slow-django-rest-framework-performance/)
+  * [Improve Serialization Performance in Django Rest Framework | How we reduced serialization time by 99%!](https://hakibenita.com/django-rest-framework-slow)
