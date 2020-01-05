@@ -69,6 +69,7 @@
   * [drf-extensions](https://github.com/chibisov/drf-extensions): DRF-extensions is a collection of custom extensions for Django REST Framework
 
   ## Tutorials
+  * [The Complete Guide to Django REST Framework and Vue JS](https://www.udemy.com/course/the-complete-guide-to-django-rest-framework-and-vue-js/?referralCode=A2FA0F6C1C4BE66A3B3E)
   * [Beginner's Guide to the Django REST Framework](https://code.tutsplus.com/tutorials/beginners-guide-to-the-django-rest-framework--cms-19786)
   * [Django Rest Framework - an Introduction](https://realpython.com/blog/python/django-rest-framework-quick-start/)
   * [Django REST Framework Tutorial](https://tests4geeks.com/django-rest-framework-tutorial/)
