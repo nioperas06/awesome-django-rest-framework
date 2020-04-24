@@ -45,7 +45,7 @@
   * [dry-rest-permissions](https://github.com/dbkaplan/dry-rest-permissions): Rules based permissions for the Django Rest Framework
 
   ### Documentation
-  * [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger): Swagger Documentation Generator for Django REST Framework
+  * [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger): Swagger Documentation Generator for Django REST Framework (deprecated (for Django 2.2+) )
   * [drf-yasg](https://github.com/axnsan12/drf-yasg): Alternative OpenAPI Generator for Django REST Framework with response schema support
 
   ### Routing
