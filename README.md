@@ -47,6 +47,7 @@
   ### Documentation
   * [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger): Swagger Documentation Generator for Django REST Framework (this package is deprecated and no longer maintained. It throw error as staticfiles template tag was deprecated in Django 2.2 and is finally removed in Django 3.0. it's recommended to use drf-yasg )
   * [drf-yasg](https://github.com/axnsan12/drf-yasg): Alternative OpenAPI Generator for Django REST Framework with response schema support
+  * [drf-spectacular](https://github.com/tfranzel/drf-spectacular): Sane and flexible OpenAPI 3.0 schema generation for Django REST framework
 
   ### Routing
 
