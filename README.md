@@ -66,7 +66,6 @@
   ### Other
   * [django-rest-localflavor](https://github.com/gilsondev/django-rest-localflavor/): Country-specific Django helpers, to use in Django Rest Framework
   * [django-rest-framework-json-api](https://github.com/django-json-api/django-rest-framework-json-api): Implements most of the JSON API 1.0 spec.
-  * [django-rest-framework-bulk](https://github.com/miki725/django-rest-framework-bulk): Django REST Framework bulk CRUD view mixins
   * [drf-extensions](https://github.com/chibisov/drf-extensions): DRF-extensions is a collection of custom extensions for Django REST Framework
 
   ## Tutorials
