@@ -39,6 +39,7 @@
   * [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt): A JSON Web Token authentication plugin for the Django REST Framework
   * [django-rest-framework-social-oauth2](https://github.com/PhilipGarnero/django-rest-framework-social-oauth2): python-social-auth and oauth2 support for django-rest-framework
   * [django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit): Django OAuth Toolkit can help you providing out of the box all the endpoints, data and logic needed to add OAuth2 capabilities to your Django projects. Django OAuth Toolkit makes extensive use of the excellent OAuthLib, so that everything is rfc-compliant.
+  * [django-rest-durin](https://django-rest-durin.readthedocs.io/en/latest/index.html) provides token auth for multiple Web/CLI/Mobile API clients via one interface but allows different token configuration for each client (For example, permissions and token expiration time can be different per API client).
 
   ### Authorization
 
