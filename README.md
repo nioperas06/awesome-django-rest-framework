@@ -62,8 +62,8 @@
   ### Visualization
 
   * [django-rest-pandas](https://github.com/wq/django-rest-pandas): Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)
-
   * [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis): Geographic add-ons for Django REST Framework
+  * [drf-renderer-xlsx](https://github.com/wharton/drf-renderer-xlsx): Allows you to create XLSX for Django REST Framework
 
   ### Other
   * [django-rest-localflavor](https://github.com/gilsondev/django-rest-localflavor/): Country-specific Django helpers, to use in Django Rest Framework
