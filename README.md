@@ -69,6 +69,7 @@
   * [django-rest-localflavor](https://github.com/gilsondev/django-rest-localflavor/): Country-specific Django helpers, to use in Django Rest Framework
   * [django-rest-framework-json-api](https://github.com/django-json-api/django-rest-framework-json-api): Implements most of the JSON API 1.0 spec.
   * [drf-extensions](https://github.com/chibisov/drf-extensions): DRF-extensions is a collection of custom extensions for Django REST Framework
+  * [drf-generators](https://github.com/Brobin/drf-generators): Generate Views, Serializers, and Urls for your Django Rest Framework application.
 
   ## Tutorials
   * [The Complete Guide to Django REST Framework and Vue JS](https://www.udemy.com/course/the-complete-guide-to-django-rest-framework-and-vue-js/?referralCode=A2FA0F6C1C4BE66A3B3E)
