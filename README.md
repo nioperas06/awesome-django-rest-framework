@@ -90,6 +90,9 @@
   * [Creating a Production Ready API with Python and Django REST Framework – Part 2](https://www.andreagrandi.it/2016/10/01/creating-a-production-ready-api-with-python-and-django-rest-framework-part-2/)
   * [Classy Django REST Framework](http://www.cdrf.co/)
 
+  ## Books
+  * [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
+  
   ## Talks
   * [Fergal Walsh - Rethinking how we build HTTP APIs](https://www.youtube.com/watch?v=qTHkNkgFJeg)
   * [Samuel Fuentes - Fast product development using Django Rest Framework. #lessonslearned](https://www.youtube.com/watch?v=0hrf83ZIKw0&t=39s)
