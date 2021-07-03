@@ -89,9 +89,15 @@
   * [Creating a Production Ready API with Python and Django REST Framework – Part 1](https://www.andreagrandi.it/2016/09/28/creating-production-ready-api-python-django-rest-framework-part-1/)
   * [Creating a Production Ready API with Python and Django REST Framework – Part 2](https://www.andreagrandi.it/2016/10/01/creating-a-production-ready-api-with-python-and-django-rest-framework-part-2/)
   * [Classy Django REST Framework](http://www.cdrf.co/)
+  * [Permissions in Django REST Framework](https://testdriven.io/blog/drf-permissions/)
+  * [Built-in Permission Classes in Django REST Framework](https://testdriven.io/blog/built-in-permission-classes-drf/)
+  * [Effectively Using Django REST Framework Serializers](https://testdriven.io/blog/drf-serializers/)
 
   ## Books
   * [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
+  
+  ## Courses
+  * [Test-Driven Development with Django, Django REST Framework, and Docker](https://testdriven.io/courses/tdd-django/)
   
   ## Talks
   * [Fergal Walsh - Rethinking how we build HTTP APIs](https://www.youtube.com/watch?v=qTHkNkgFJeg)
