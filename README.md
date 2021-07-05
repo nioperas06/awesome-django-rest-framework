@@ -58,6 +58,7 @@
   ### Serialization
   * [django-rest-framework-recursive](https://github.com/heywbj/django-rest-framework-recursive/): Recursive Serialization for Django REST framework
   * [drf-extra-fields](https://github.com/Hipo/drf-extra-fields/): Extra fields for Django REST framework.
+  * [drf-errors](https://github.com/null-none/drf-errors/): Extension for Django REST framework error display.
 
   ### Visualization
 
