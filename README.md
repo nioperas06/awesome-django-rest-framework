@@ -68,6 +68,7 @@
   * [django-rest-framework-json-api](https://github.com/django-json-api/django-rest-framework-json-api): Implements most of the JSON API 1.0 spec.
   * [drf-extensions](https://github.com/chibisov/drf-extensions): DRF-extensions is a collection of custom extensions for Django REST Framework
   * [drf-generators](https://github.com/Brobin/drf-generators): Generate Views, Serializers, and Urls for your Django Rest Framework application.
+  * [django-restql](https://github.com/yezyilomo/django-restql): Turn your API made with Django REST Framework(DRF) into a GraphQL like API. 
 
   ## Tutorials
   * [The Complete Guide to Django REST Framework and Vue JS](https://www.udemy.com/course/the-complete-guide-to-django-rest-framework-and-vue-js/?referralCode=A2FA0F6C1C4BE66A3B3E)
