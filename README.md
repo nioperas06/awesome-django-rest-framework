@@ -56,6 +56,7 @@
   ### Serialization
   * [django-rest-framework-recursive](https://github.com/heywbj/django-rest-framework-recursive/): Recursive Serialization for Django REST framework
   * [drf-extra-fields](https://github.com/Hipo/drf-extra-fields/): Extra fields for Django REST framework.
+  * [drf-flex-fields](https://github.com/rsinger86/drf-flex-fields): Dynamically set fields and expand nested resources in Django REST Framework serializers. 
 
   ### Visualization
 
