@@ -21,6 +21,7 @@
   - [Routing](#routing)
   - [Serialization](#serialization)
   - [Visualization](#visualization)
+  - [Logging](#logging)
   - [Other](#other)
 - [Tutorials](#tutorials)
 - [Books](#books)
@@ -65,6 +66,11 @@
   * [django-rest-pandas](https://github.com/wq/django-rest-pandas): Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)
   * [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis): Geographic add-ons for Django REST Framework
   * [drf-renderer-xlsx](https://github.com/wharton/drf-renderer-xlsx): Allows you to create XLSX for Django REST Framework
+
+  ### Logging
+
+  * [drf-api-tracking](https://github.com/lingster/drf-api-tracking): Provides a Django model and DRF view mixin that work together to log Django Rest Framework requests to the database.
+  * [django-requestlogs](https://github.com/Raekkeri/django-requestlogs): Package providing middleware and other helpers for audit logging.
 
   ### Other
   * [django-rest-localflavor](https://github.com/gilsondev/django-rest-localflavor/): Country-specific Django helpers, to use in Django Rest Framework
