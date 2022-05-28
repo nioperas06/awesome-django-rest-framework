@@ -22,6 +22,7 @@
   - [Serialization](#serialization)
   - [Visualization](#visualization)
   - [Logging](#logging)
+  - [Filtering](#filtering)
   - [Other](#other)
 - [Tutorials](#tutorials)
 - [Books](#books)
@@ -71,6 +72,13 @@
 
   * [drf-api-tracking](https://github.com/lingster/drf-api-tracking): Provides a Django model and DRF view mixin that work together to log Django Rest Framework requests to the database.
   * [django-requestlogs](https://github.com/Raekkeri/django-requestlogs): Package providing middleware and other helpers for audit logging.
+
+  ### Filtering
+  
+  * [django-rest-framework-filters](https://github.com/philipn/django-rest-framework-filters): Better filtering.
+  * [django-rest-framework-word-search-filter](https://github.com/trollknurr/django-rest-framework-word-search-filter): Full word search filter backend for Django REST Framework. DB backend independent.
+  * [django-url-filter](https://github.com/miki725/django-url-filter): Django URL Filter provides a safe way to filter data via human-friendly URLs.
+  * [drf-url-filters](https://github.com/manjitkumar/drf-url-filters): A django app to apply filters on drf querysets using query params with validations using voluptuous.
 
   ### Other
   * [django-rest-localflavor](https://github.com/gilsondev/django-rest-localflavor/): Country-specific Django helpers, to use in Django Rest Framework
