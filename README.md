@@ -44,7 +44,14 @@
 
   ### Authorization
 
-  * [dry-rest-permissions](https://github.com/dbkaplan/dry-rest-permissions): Rules based permissions for the Django Rest Framework
+  * [dry-rest-permissions](https://github.com/dbkaplan/dry-rest-permissions): Rules based permissions.
+  * [drf-access-policy](https://github.com/rsinger86/drf-access-policy): Declarative access policies/permissions modeled after AWS' IAM policies.
+  * [djangorestframework-api-key](https://github.com/florimondmanca/djangorestframework-api-key): API key permissions.
+  * [djangorestframework-composed-permissions](https://github.com/niwinz/djangorestframework-composed-permissions): A simple way to define complex permissions.
+  * [rest_condition](https://github.com/caxap/rest_condition): Complex permissions flow.
+  * [django-rest-framework-roles](https://github.com/computer-lab/django-rest-framework-roles): Parameterizes Django REST Framework methods over user-defined roles.
+  * [django-rest-framework-role-filters](https://github.com/allisson/django-rest-framework-role-filters): Simple role filtering.
+  * [drf-psq](https://github.com/drf-psq/drf-psq): The simplest and most general way to manage action-based permissions, serializers, and querysets dependent on permission-based rules.
 
   ### Documentation
   * [drf-yasg](https://github.com/axnsan12/drf-yasg): Alternative OpenAPI Generator for Django REST Framework with response schema support
