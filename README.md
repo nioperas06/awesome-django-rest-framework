@@ -23,6 +23,8 @@
   - [Visualization](#visualization)
   - [Logging](#logging)
   - [Filtering](#filtering)
+  - [Pagination](#pagination)
+  - [Renderers and Parsers](#renderers-and-parsers)
   - [Other](#other)
 - [Tutorials](#tutorials)
 - [Books](#books)
@@ -86,6 +88,23 @@
   * [django-rest-framework-word-search-filter](https://github.com/trollknurr/django-rest-framework-word-search-filter): Full word search filter backend for Django REST Framework. DB backend independent.
   * [django-url-filter](https://github.com/miki725/django-url-filter): Django URL Filter provides a safe way to filter data via human-friendly URLs.
   * [drf-url-filters](https://github.com/manjitkumar/drf-url-filters): A django app to apply filters on drf querysets using query params with validations using voluptuous.
+
+  ### Pagination
+
+  * [drf-proxy-pagination](https://github.com/tuffnatty/drf-proxy-pagination): Pagination class for Django REST Framework to choose pagination class by query parameter
+  * [django-rest-framework-link-header-pagination](https://github.com/tbeadle/django-rest-framework-link-header-pagination): Provide pagination for django-rest-framework using a "Link" HTTP header
+
+  ### Renderers and Parsers
+
+  * [django-rest-framework-yaml](https://github.com/jpadilla/django-rest-framework-yaml): YAML support for Django REST Framework.
+  * [django-rest-framework-xml](https://github.com/jpadilla/django-rest-framework-xml): XML support for Django REST Framework.
+  * [django-rest-framework-jsonp](https://github.com/jpadilla/django-rest-framework-jsonp): JSONP support for Django REST Framework.
+  * [drf-excel](https://github.com/wharton/drf-excel): An XLSX spreadsheet renderer for Django REST Framework.
+  * [django-rest-framework-csv](https://github.com/mjumbewu/django-rest-framework-csv): CSV Tools for Django REST Framework.
+  * [drf-ujson-renderer](https://github.com/gizmag/drf-ujson-renderer): Django Rest Framework renderer using ujson.
+  * [djangorestframework-camel-case](https://github.com/vbabiy/djangorestframework-camel-case): Camel case JSON support for Django REST framework.
+  * [django-rest-pandas](https://github.com/wq/django-rest-pandas): Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel).
+  * [rest-framework-latex](https://github.com/mypebble/rest-framework-latex): A LaTeX renderer for Django REST Framework.
 
   ### Other
   * [django-rest-localflavor](https://github.com/gilsondev/django-rest-localflavor/): Country-specific Django helpers, to use in Django Rest Framework
