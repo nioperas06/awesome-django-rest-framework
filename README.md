@@ -21,6 +21,10 @@
   - [Routing](#routing)
   - [Serialization](#serialization)
   - [Visualization](#visualization)
+  - [Logging](#logging)
+  - [Filtering](#filtering)
+  - [Pagination](#pagination)
+  - [Renderers and Parsers](#renderers-and-parsers)
   - [Other](#other)
 - [Tutorials](#tutorials)
 - [Books](#books)
@@ -33,20 +37,27 @@
   ### Authentication
   * [django-rest-passwordreset](https://github.com/anx-ckreuzberger/django-rest-passwordreset): Password reset endpoints that hook into Django Authentication system
   * [djoser](https://github.com/sunscrapers/djoser): REST implementation of Django authentication system
-  * [django-rest-auth](https://github.com/Tivix/django-rest-auth/): A set of REST API endpoints to handle User Registration and Authentication tasks - ( **on pause and is currently unsupported**, [but there is a newer fork](https://github.com/jazzband/dj-rest-auth) )
+  * [dj-rest-auth](https://github.com/jazzband/dj-rest-auth): A set of REST API endpoints to handle User Registration and Authentication tasks
   * [django-rest-registration](https://github.com/apragacz/django-rest-registration): User registration and authentication REST API, based on Django REST Framework.
-  * [django-rest-framework-jwt](https://github.com/GetBlimp/django-rest-framework-jwt/): JSON Web Token Authentication support for Django REST Framework - ( **currently unmaintained**, [but there is a newer fork](https://github.com/Styria-Digital/django-rest-framework-jwt) )
   * [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt): A JSON Web Token authentication plugin for the Django REST Framework
   * [django-rest-framework-social-oauth2](https://github.com/PhilipGarnero/django-rest-framework-social-oauth2): python-social-auth and oauth2 support for django-rest-framework
   * [django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit): Django OAuth Toolkit can help you providing out of the box all the endpoints, data and logic needed to add OAuth2 capabilities to your Django projects. Django OAuth Toolkit makes extensive use of the excellent OAuthLib, so that everything is rfc-compliant.
   * [django-rest-durin](https://django-rest-durin.readthedocs.io/en/latest/index.html) provides token auth for multiple Web/CLI/Mobile API clients via one interface but allows different token configuration for each client (For example, permissions and token expiration time can be different per API client).
+  * [djangorest-routes](https://github.com/israelabraham/djangorest-routes): Djangorest Routes is an authentication library strongly built in Python that serves the purpose of quick bootstrapping a project's authentication infrastructure.
 
   ### Authorization
 
-  * [dry-rest-permissions](https://github.com/dbkaplan/dry-rest-permissions): Rules based permissions for the Django Rest Framework
+  * [dry-rest-permissions](https://github.com/dbkaplan/dry-rest-permissions): Rules based permissions.
+  * [drf-access-policy](https://github.com/rsinger86/drf-access-policy): Declarative access policies/permissions modeled after AWS' IAM policies.
+  * [djangorestframework-api-key](https://github.com/florimondmanca/djangorestframework-api-key): API key permissions.
+  * [djangorestframework-composed-permissions](https://github.com/niwinz/djangorestframework-composed-permissions): A simple way to define complex permissions.
+  * [rest_condition](https://github.com/caxap/rest_condition): Complex permissions flow.
+  * [django-rest-framework-roles](https://github.com/computer-lab/django-rest-framework-roles): Parameterizes Django REST Framework methods over user-defined roles.
+  * [django-rest-framework-role-filters](https://github.com/allisson/django-rest-framework-role-filters): Simple role filtering.
+  * [drf-psq](https://github.com/drf-psq/drf-psq): The simplest and most general way to manage action-based permissions, serializers, and querysets dependent on permission-based rules.
+  * [axioms-drf-py](https://github.com/abhishektiwari/axioms-drf-py): OAuth2/OIDC based authentication and authorization for Django REST Framework APIs. Supports authentication and claim-based fine-grained authorization (scopes, roles, permissions) using JWT tokens.
 
   ### Documentation
-  * [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger): Swagger Documentation Generator for Django REST Framework (this package is deprecated and no longer maintained. It throw error as staticfiles template tag was deprecated in Django 2.2 and is finally removed in Django 3.0. it's recommended to use drf-yasg )
   * [drf-yasg](https://github.com/axnsan12/drf-yasg): Alternative OpenAPI Generator for Django REST Framework with response schema support
   * [drf-spectacular](https://github.com/tfranzel/drf-spectacular): Sane and flexible OpenAPI 3.0 schema generation for Django REST framework
   * [drf-openapi-tester](https://github.com/snok/drf-openapi-tester): Test drf test responses against OpenAPI/Swagger documentation.
@@ -59,6 +70,9 @@
   * [django-rest-framework-recursive](https://github.com/heywbj/django-rest-framework-recursive/): Recursive Serialization for Django REST framework
   * [drf-extra-fields](https://github.com/Hipo/drf-extra-fields/): Extra fields for Django REST framework.
   * [drf-errors](https://github.com/null-none/drf-errors/): Extension for Django REST framework error display.
+  * [drf-flex-fields](https://github.com/rsinger86/drf-flex-fields): Dynamically set fields and expand nested resources in Django REST Framework serializers. 
+  * [drf-writable-nested](https://github.com/beda-software/drf-writable-nested): Writable nested model serializer for Django REST Framework
+  * [drf-shapeless-serializers](https://github.com/khaledsukkar2/drf-shapeless-serializers): provides powerful mixins that extend Django REST Framework's serializers with dynamic configuration capabilities so you can select fields at runtime, rename output keys dynamically, modify field attributes per-request, add and configure nested relationships on-the-fly and apply conditional field logic.
 
   ### Visualization
 
@@ -66,11 +80,43 @@
   * [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis): Geographic add-ons for Django REST Framework
   * [drf-renderer-xlsx](https://github.com/wharton/drf-renderer-xlsx): Allows you to create XLSX for Django REST Framework
 
+  ### Logging
+
+  * [drf-api-tracking](https://github.com/lingster/drf-api-tracking): Provides a Django model and DRF view mixin that work together to log Django Rest Framework requests to the database.
+  * [django-requestlogs](https://github.com/Raekkeri/django-requestlogs): Package providing middleware and other helpers for audit logging.
+
+  ### Filtering
+  
+  * [django-rest-framework-filters](https://github.com/philipn/django-rest-framework-filters): Better filtering.
+  * [django-rest-framework-word-search-filter](https://github.com/trollknurr/django-rest-framework-word-search-filter): Full word search filter backend for Django REST Framework. DB backend independent.
+  * [django-url-filter](https://github.com/miki725/django-url-filter): Django URL Filter provides a safe way to filter data via human-friendly URLs.
+  * [drf-url-filters](https://github.com/manjitkumar/drf-url-filters): A django app to apply filters on drf querysets using query params with validations using voluptuous.
+
+  ### Pagination
+
+  * [drf-proxy-pagination](https://github.com/tuffnatty/drf-proxy-pagination): Pagination class for Django REST Framework to choose pagination class by query parameter
+  * [django-rest-framework-link-header-pagination](https://github.com/tbeadle/django-rest-framework-link-header-pagination): Provide pagination for django-rest-framework using a "Link" HTTP header
+
+  ### Renderers and Parsers
+
+  * [django-rest-framework-yaml](https://github.com/jpadilla/django-rest-framework-yaml): YAML support for Django REST Framework.
+  * [django-rest-framework-xml](https://github.com/jpadilla/django-rest-framework-xml): XML support for Django REST Framework.
+  * [django-rest-framework-jsonp](https://github.com/jpadilla/django-rest-framework-jsonp): JSONP support for Django REST Framework.
+  * [drf-excel](https://github.com/wharton/drf-excel): An XLSX spreadsheet renderer for Django REST Framework.
+  * [django-rest-framework-csv](https://github.com/mjumbewu/django-rest-framework-csv): CSV Tools for Django REST Framework.
+  * [drf-ujson-renderer](https://github.com/gizmag/drf-ujson-renderer): Django Rest Framework renderer using ujson.
+  * [djangorestframework-camel-case](https://github.com/vbabiy/djangorestframework-camel-case): Camel case JSON support for Django REST framework.
+  * [django-rest-pandas](https://github.com/wq/django-rest-pandas): Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel).
+  * [rest-framework-latex](https://github.com/mypebble/rest-framework-latex): A LaTeX renderer for Django REST Framework.
+
   ### Other
   * [django-rest-localflavor](https://github.com/gilsondev/django-rest-localflavor/): Country-specific Django helpers, to use in Django Rest Framework
   * [django-rest-framework-json-api](https://github.com/django-json-api/django-rest-framework-json-api): Implements most of the JSON API 1.0 spec.
   * [drf-extensions](https://github.com/chibisov/drf-extensions): DRF-extensions is a collection of custom extensions for Django REST Framework
   * [drf-generators](https://github.com/Brobin/drf-generators): Generate Views, Serializers, and Urls for your Django Rest Framework application.
+  * [django-restql](https://github.com/yezyilomo/django-restql): Turn your API made with Django REST Framework(DRF) into a GraphQL like API. 
+  * [django-rest-tsg](https://github.com/jinkanhq/django-rest-tsg): A TypeScript code generator for DRF serializers, enums and dataclasses.
+  * [django-rest-cli](https://github.com/py-universe/django-rest-cli): A CRUD endpoints generator and flexible cookiecutter for rapid REST APIs dev.
 
   ## Tutorials
   * [The Complete Guide to Django REST Framework and Vue JS](https://www.udemy.com/course/the-complete-guide-to-django-rest-framework-and-vue-js/?referralCode=A2FA0F6C1C4BE66A3B3E)
