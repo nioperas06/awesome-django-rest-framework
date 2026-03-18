@@ -55,6 +55,7 @@
   * [django-rest-framework-roles](https://github.com/computer-lab/django-rest-framework-roles): Parameterizes Django REST Framework methods over user-defined roles.
   * [django-rest-framework-role-filters](https://github.com/allisson/django-rest-framework-role-filters): Simple role filtering.
   * [drf-psq](https://github.com/drf-psq/drf-psq): The simplest and most general way to manage action-based permissions, serializers, and querysets dependent on permission-based rules.
+  * [axioms-drf-py](https://github.com/abhishektiwari/axioms-drf-py): OAuth2/OIDC based authentication and authorization for Django REST Framework APIs. Supports authentication and claim-based fine-grained authorization (scopes, roles, permissions) using JWT tokens.
 
   ### Documentation
   * [drf-yasg](https://github.com/axnsan12/drf-yasg): Alternative OpenAPI Generator for Django REST Framework with response schema support
