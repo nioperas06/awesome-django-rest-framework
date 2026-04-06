@@ -12,6 +12,7 @@
 
 **Check out my [medium blog](https://medium.com/@nioperas06/) or say *hi* on [Twitter](https://twitter.com/jgantindev).**
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Django REST Framework API orchestration, automated endpoint management, and multi-agent coordination. MIT licensed.
 ## Table of Contents
 
 - [Packages](#packages)
