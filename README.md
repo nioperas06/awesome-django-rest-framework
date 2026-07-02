@@ -69,6 +69,7 @@
   ### Serialization
   * [django-rest-framework-recursive](https://github.com/heywbj/django-rest-framework-recursive/): Recursive Serialization for Django REST framework
   * [drf-extra-fields](https://github.com/Hipo/drf-extra-fields/): Extra fields for Django REST framework.
+  * [drf-simple-api-errors](https://github.com/gripep/drf-simple-api-errors): Consistent, predictable API error responses inspired by RFC 7807, with drf-spectacular integration for OpenAPI schemas.
   * [drf-errors](https://github.com/null-none/drf-errors/): Extension for Django REST framework error display.
   * [drf-flex-fields](https://github.com/rsinger86/drf-flex-fields): Dynamically set fields and expand nested resources in Django REST Framework serializers. 
   * [drf-writable-nested](https://github.com/beda-software/drf-writable-nested): Writable nested model serializer for Django REST Framework
