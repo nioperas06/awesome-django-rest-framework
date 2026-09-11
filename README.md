@@ -111,6 +111,7 @@
   * [rest-framework-latex](https://github.com/mypebble/rest-framework-latex): A LaTeX renderer for Django REST Framework.
 
   ### Other
+  * [django-orm-lens](https://github.com/FROWNINGdev/django-orm-lens): Static analyzer for Django models — sidebar tree, ER diagram, ORM linter, MCP server. Helps trace model shapes that ViewSets and Serializers reason about. No DB, no Django boot.
   * [drf-sendables](https://github.com/amikrop/drf-sendables): User messages for Django REST Framework
   * [django-rest-localflavor](https://github.com/gilsondev/django-rest-localflavor/): Country-specific Django helpers, to use in Django Rest Framework
   * [django-rest-framework-json-api](https://github.com/django-json-api/django-rest-framework-json-api): Implements most of the JSON API 1.0 spec.
