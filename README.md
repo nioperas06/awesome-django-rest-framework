@@ -85,6 +85,7 @@
 
   * [drf-api-tracking](https://github.com/lingster/drf-api-tracking): Provides a Django model and DRF view mixin that work together to log Django Rest Framework requests to the database.
   * [django-requestlogs](https://github.com/Raekkeri/django-requestlogs): Package providing middleware and other helpers for audit logging.
+  * [logbrew-django](https://github.com/LogBrewCo/sdk/tree/main/python/logbrew_django): Error monitoring for Django and DRF. Unhandled errors show up in LogBrew with the request and the logs around them.
 
   ### Filtering
   
