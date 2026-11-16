@@ -74,6 +74,7 @@
   * [drf-flex-fields](https://github.com/rsinger86/drf-flex-fields): Dynamically set fields and expand nested resources in Django REST Framework serializers. 
   * [drf-writable-nested](https://github.com/beda-software/drf-writable-nested): Writable nested model serializer for Django REST Framework
   * [drf-shapeless-serializers](https://github.com/khaledsukkar2/drf-shapeless-serializers): provides powerful mixins that extend Django REST Framework's serializers with dynamic configuration capabilities so you can select fields at runtime, rename output keys dynamically, modify field attributes per-request, add and configure nested relationships on-the-fly and apply conditional field logic.
+  * [imgproxykit](https://github.com/kondratevdev/imgproxykit): Django REST Framework serializer fields for generating imgproxy image URLs and named variants with reusable transformations.
 
   ### Visualization
 
